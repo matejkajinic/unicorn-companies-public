@@ -29,7 +29,7 @@ export default function Home() {
     <div className="dark-mode">
       <title>Unicorn Companies</title>
       <h1 className="centered">Unicorn Companies</h1>
-      <p className="centered">A curated list of privately-owned startup companies that have achieved a valuation of $1 billion or more, as of September 1, 2022.</p>
+      <p className="centered">A curated list of privately-owned startup companies that have achieved a valuation of $1 billion or more, from July 2007 till September 2022.</p>
       <div className="search-container centered">
         <input
           className="search-input"
